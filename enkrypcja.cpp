@@ -35,7 +35,7 @@ int main()
 		}
 	}
 
-	cout << "Zaszyfrowana wiadmosc: " << wiad;
+	cout << "Rozszyfrowana wiadmosc: " << wiad;
 
 	return 0;
 }
