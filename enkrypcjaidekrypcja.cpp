@@ -7,8 +7,8 @@ int main()
 	char wiad[100], zn;
 	int a, klucz; int b;
 
-	cout << "Je¿eli chcesz dokonaæ enkrypcji wpisz 1" << endl;
-	cout << "Je¿eli chcesz dokonaæ dekrypcji wpisz 2" << endl;
+	cout << "JeÂ¿eli chcesz dokonac enkrypcji wpisz 1" << endl;
+	cout << "JeÂ¿eli chcesz dokonac dekrypcji wpisz 2" << endl;
 
 	cin >> b;
 
